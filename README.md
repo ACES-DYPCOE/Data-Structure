@@ -1,5 +1,5 @@
 # Data-Structure
-Repository for cool algorithms and Data Structures
+Repository for cool algorithms and Data Structures. Contibute  by adding your code's for various operation on Data structure and trivial problem that can be solved by using them .
 
 # How to contribute:
 Please comment your code thoroughly as to make it possible for anyone to understand. If possible, check your code using unit tests. Avoid all the bad implementations, make your code as clean as possible. After that, find the folder that fits the category of your code and submit a PR. Star this repo if the information here is useful to you.
