@@ -64,4 +64,4 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 
 
-**Keep On Exploring Open Source then ! :purple_heart: **
+**Keep On Exploring Open Source then :purple_heart:!**
