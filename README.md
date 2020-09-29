@@ -18,43 +18,43 @@ Thanks for taking the time to contribute to this project. Before making PRs, ple
 
 # Steps to Contribute :
 
-- **Fork this repository**
+- **Fork this repository** :On top right corner click there .
 - **Clone the repository** : Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.
 
 Open a terminal and run the following git command:
-'''
+```
 git clone "url you just copied"
-'''
+```
 - **Create a branch**:
 Change to the repository directory on your computer (if you are not already there):
-'''
+```
 cd Data-Structure
-'''
+```
 Now create a branch using the git checkout command:
-'''
+```
 git checkout -b your-new-branch-name
-'''
+```
 For example:
-'''
+```
 git checkout -b add-tree-insertion
-'''
+```
 (The name of the branch does not need to have the word add in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
 - **Make necessary changes and commit those changes**
 - Add file in respective folders follow rules of contribution
-'''
+```
 git add insertion_in_tree.py
-'''
+```
 Now commit those changes using the git commit command:
-'''
+```
 git commit -m "Add insertion in tree"
-'''
+```
 
 - **Push changes to GitHub**
 Push your changes using the command git push:
-'''
+```
 git push origin <add-your-branch-name>
-'''
+```
   
 - **Submit your changes for review**
 If you go to your repository on GitHub, you'll see a '''Compare & pull request button'''. Click on that button.
