@@ -57,7 +57,11 @@ git push origin <add-your-branch-name>
 ```
   
 - **Submit your changes for review**
-If you go to your repository on GitHub, you'll see a '''Compare & pull request button'''. Click on that button.
+If you go to your repository on GitHub, you'll see a ```Compare & pull request button.``` Click on that button.
 
 - **Now submit the pull request.**
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+
+
+**Keep On Exploring Open Source then ! :purple_heart: **
