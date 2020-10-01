@@ -9,6 +9,7 @@ public class BubbleSort
     public void bubblerSort(int[] arr, int n)
     {
         int temp = 0;
+            //sort elements
         for(int i=0; i < n; i++)
         {
             for(int j=1; j < (n-i); j++)
@@ -38,7 +39,7 @@ public class BubbleSort
         System.out.println("Enter elements: ");
         for(int i=0;i<n;i++)
             arr[i] = sc.nextInt();
-
+               //implement bubble sort function
         BubbleSort obj = new BubbleSort();
         obj.bubblerSort(arr, n);
 
