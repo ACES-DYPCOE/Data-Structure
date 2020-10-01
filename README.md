@@ -9,7 +9,7 @@ Thanks for taking the time to contribute to this project. Before making PRs, ple
 
 **A few norms you should follow :**
 - Proper intendation is must!
-- Include ample comments so that code is understandable and easy to follow.
+- Include Sample comments so that code is understandable and easy to follow.
 - Mention the complexity of a function in a comment.
 - Time complexity 
 - Space complexity 
