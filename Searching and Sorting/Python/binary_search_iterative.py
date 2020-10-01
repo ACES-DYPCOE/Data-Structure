@@ -21,17 +21,16 @@ def binary_search_iterative(arr,x):
         elif (x < arr[mid]):
             high = mid - 1
 
-        #the only remaining condition is that middle element is x in that
-        #case we return value of middle.
+        #the only remaining condition is that middle element is x in that case we return value of middle
         else:
             return mid
 
-    #if location of x is not found in above loop that suggests x is not
-    #present in the array, so we return -1.
+    #if location of x is not found in above loop that suggests x is not present in the array, so we return -1.
     return -1
 
-arr = []
+arr = [11,23,45,63,72,89,94,112,234]
 loc = binary_search_iterative(arr,23)
+#Output - 1
 print(loc)
 
 '''Great Video on Binary search- https://www.youtube.com/watch?v=KXJSjte_OAI'''
