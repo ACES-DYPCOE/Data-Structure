@@ -72,6 +72,8 @@ int main(){
 		}
 	}
 
+	// Time complexity -  O(n^3)
+	// Space Complexity - O(n^2)
  
  	// answering queries
 	vector<pair<int, int>> vp;
