@@ -85,3 +85,11 @@ myorder = "I want {} pieces of item {} for {} dollars."
 print(myorder.format(quantity, item_no, price))
 
 
+#printing in the different forms
+
+print("Hello world")
+a="hello"
+print(f"hey {a}")
+print(f"hello {0} this is {1}.".format("red","code"))
+
+
